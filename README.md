@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AYUSH GANGULU
+- 👋 Hi, I’m AYUSH GANGULY
 - 👀 I’m interested in Software development  
 - 🌱 I’m currently learning Web and App Development 
 - 💞️ I’m looking to collaborate on Tech Projects
