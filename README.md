@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Ayush Ganguly
-- 👀 I’m interested in Software development (FullStack, Web/ App Development) 
+- 👀 I’m interested in Software and firmware development
 - 🌱 I’m currently learning Computer Engineering in University of Waterloo, Canada.
 - 💞️ I’m looking to collaborate on Tech Projects
 - 📫 How to reach me www.linkedin.com/in/ayush-ganguly-45728520b
